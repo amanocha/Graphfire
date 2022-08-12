@@ -1,3 +1,5 @@
+Graphfire is domain-specificy memory hierarchy approach for graph applications. We modified the [MosaicSim](https://github.com/PrincetonUniversity/MosaicSim) simulator and have provided our implementation here. Below are instructions on using MosaicSim:
+
 # MosaicSim
 
 Simulator for DECADES Project
@@ -116,7 +118,7 @@ We also provide further documentation about the simulator and compiler within th
 
 ## Workloads
 
-We provide further workloads, used withing the DECADES project in the next repo:
+We provide further workloads, used within the DECADES project in the next repo:
 
   https://github.com/amanocha/DECADES_Applications
 
