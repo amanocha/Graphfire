@@ -1,4 +1,6 @@
-Graphfire is domain-specificy memory hierarchy approach for graph applications. We modified the [MosaicSim](https://github.com/PrincetonUniversity/MosaicSim) simulator and have provided our implementation here. For details on Graphfire, please refer to the [paper](https://www.cs.princeton.edu/~amanocha/files/GF2022.pdf). 
+Graphfire is domain-specificy memory hierarchy approach for graph applications. We modified the [MosaicSim](https://github.com/PrincetonUniversity/MosaicSim) simulator and have provided our implementation here. To run Graphfire, utilize the `graphfire_inorder.txt` and `graphfire_sim.txt` configuration files.
+
+For further details on Graphfire, please refer to the [paper](https://www.cs.princeton.edu/~amanocha/files/GF2022.pdf). 
 
 Below are instructions on using MosaicSim:
 
